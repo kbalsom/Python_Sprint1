@@ -8,5 +8,6 @@ It is a menu-based program that includes 5 options:
 3) Cool things with Strings and Dates.
 4) A program to produce a graph based on Monthly Claim Totals.
 5) An option to quit the program.
+
 Another parameter was to include two seperate functions at the beginning of the program.
 We chose a function to format dollar values, and a function to validate phone numbers.
