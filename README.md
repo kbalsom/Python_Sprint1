@@ -1,4 +1,6 @@
-Rritten by: Kara Balsom & Ian Collins. 
+Written by: Kara Balsom & Ian Collins. 
+
+
 We wrote this program during Sprint Week #1 (Feb. 28 - Mar 6, 2022) of our Software Development Program at Keyin College.
 Project 1 of Sprint Week #1 asked us to create a Python program based on on the claims processing system for employees who take work trips for 
 the NL Chocolate Company.
